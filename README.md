@@ -1,4 +1,4 @@
-Hi! Welcome to my Cat and Dog Adoption Website Project. Here are the contents:
+Hi! Welcome to my Cat and Dog Adoption Website Project. This website is built using HTML, CSS, JavaScript and PHP. Here are the contents:
 
 -Home: A home page
 -Create an Account: An account creation page
